@@ -1,0 +1,6 @@
+Click==8.0.3
+pandas
+numpy
+ipaddress==1.0.23
+pytest
+netflow==0.12.2
